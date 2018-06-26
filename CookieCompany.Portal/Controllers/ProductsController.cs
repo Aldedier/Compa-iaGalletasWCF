@@ -9,6 +9,7 @@ namespace CookieCompany.Portal.Controllers
 
     public class ProductsController : BaseController
     {
+
         // GET: Products
         public async Task<ActionResult> Index()
         {
